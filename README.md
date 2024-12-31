@@ -2,11 +2,11 @@
 
 Kelompok 1 Analisis Kebutuhan Perangkat Lunak
 Anggota: 
-2206068 – Zefri Fahlevi Irdiansyah
-2206052 – Dede Yasa Riswanda
-2206110 – Dellina Bella Azahra
-2206153 – Sulton Aulia Najata
-2206154 – Siti Saadah Rahmawati
+- 2206068 – Zefri Fahlevi Irdiansyah
+- 2206052 – Dede Yasa Riswanda
+- 2206110 – Dellina Bella Azahra
+- 2206153 – Sulton Aulia Najata
+- 2206154 – Siti Saadah Rahmawati
 
 ### Fiturnya apa saja sih?
 Untuk fiturnya sebagai berikut
